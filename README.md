@@ -1,6 +1,6 @@
 # Global Port Traffic Analysis (PySpark / Databricks)
 
-Exploratory analysis of global shipping port traffic data using PySpark on Databricks. Course project — Big Data, SGH Warsaw School of Economics, 1st semester.
+Exploratory analysis of global shipping port traffic data using PySpark on Databricks. Course project — Big Data, SGH Warsaw School of Economics.
 
 ## Status
 
